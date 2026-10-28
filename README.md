@@ -1,3 +1,4 @@
+<img width="1280" height="430" alt="banner-pedro-elias" src="https://github.com/user-attachments/assets/98a60d0a-0888-4da4-b234-66c26ddde7da" />
 <div align="center">
   <img src="assets/banner-pedro-elias.png" alt="Pedro Elias — Engenharia de Software na UNICID, foco em desenvolvimento Back-End" width="100%" />
 </div>
