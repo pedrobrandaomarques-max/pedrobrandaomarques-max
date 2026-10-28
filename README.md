@@ -25,7 +25,7 @@ Um desses projetos é o **Odonto Elias**, site institucional fictício de uma cl
 ## 📬 Contato
 
 - **E-mail:** [pedrobrandaomarques@gmail.com]
-- **LinkedIn:** Pedro Elias Brandão Marques 
+- **LinkedIn:** https://www.linkedin.com/in/pedro-elias-brand%C3%A3o-marques-39b6b9433/
 
 ---
 
