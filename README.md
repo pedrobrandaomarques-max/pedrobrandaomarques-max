@@ -20,12 +20,12 @@ Acredito no aprendizado por meio da prática, da colaboração e da melhoria con
 
 Meus primeiros sites foram desenvolvidos durante um **curso básico de HTML e CSS no SENAC**, onde comecei a praticar a estruturação e a estilização de páginas web.
 
-Um desses projetos é o **Odonto Elias**, site institucional fictício de uma clínica odontológica. Hoje, sigo ampliando meus conhecimentos com os projetos da graduação, incluindo o **Clube Social e Esportivo União (CSEU)**, que envolve desenvolvimento web, documentação técnica e modelagem de dados.
+Um desses projetos é o **Odonto Elias**, site institucional fictício de uma clínica odontológica. Hoje, sigo ampliando meus conhecimentos com os projetos da graduação, incluindo o **Clube Social Esportivo União (CSEU)**, que envolve desenvolvimento web, documentação técnica e modelagem de dados.
 
 ## 📬 Contato
 
-- **E-mail:** [pedrobrandaomarques@gmail.com](mailto:pedrobrandaomarques@gmail.com)
-- **LinkedIn:** Pedro Elias Brandão Marques *(adicione aqui o link do seu perfil)*
+- **E-mail:** [pedrobrandaomarques@gmail.com]
+- **LinkedIn:** Pedro Elias Brandão Marques 
 
 ---
 
