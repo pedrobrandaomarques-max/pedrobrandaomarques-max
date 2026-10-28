@@ -29,6 +29,3 @@ Um desses projetos é o **Odonto Elias**, site institucional fictício de uma cl
 
 ---
 
-<div align="center">
-  <sub>Em constante aprendizado, transformando conhecimento em soluções. 🚀</sub>
-</div>
