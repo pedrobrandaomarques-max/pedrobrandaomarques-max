@@ -1,30 +1,36 @@
-# 👨‍💻 Olá, eu sou o Pedro Elias!
+<div align="center">
+  <img src="assets/banner-pedro-elias.png" alt="Pedro Elias — Engenharia de Software na UNICID, foco em desenvolvimento Back-End" width="100%" />
+</div>
 
-### 🚀 Estudante de Engenharia de Software | Desenvolvedor em Formação
+## 👨‍💻 Sobre mim
 
-Apaixonado por tecnologia, programação e pela construção de soluções que transformam ideias em resultados. Busco desenvolver aplicações eficientes, organizadas e funcionais, sempre valorizando o aprendizado contínuo e a evolução profissional.
+Olá! Sou **Pedro Elias**, estudante de **Engenharia de Software na Universidade Cidade de São Paulo (UNICID)**, construindo minha trajetória na área de desenvolvimento de sistemas.
 
-## 🔎 Sobre mim
+Tenho conhecimentos em **HTML, CSS e lógica de programação** e estou aprofundando meus estudos em **linguagem C, modelagem de bancos de dados e desenvolvimento web**. Meu principal objetivo profissional é atuar com **desenvolvimento Back-End**, criando soluções úteis, organizadas e eficientes.
 
-Olá! Sou **Pedro Elias**, estudante de Engenharia de Software, dedicado a construir minha trajetória na área de desenvolvimento de sistemas.
+Acredito no aprendizado por meio da prática, da colaboração e da melhoria contínua.
 
-Tenho conhecimentos em **HTML, CSS e lógica de programação**, além de estar ampliando minha experiência com linguagem C, modelagem de bancos de dados e desenvolvimento de aplicações web.
+## 🎯 Minha jornada na tecnologia
 
-Acredito que a tecnologia vai além de escrever códigos: é uma ferramenta para resolver problemas, otimizar processos e criar novas possibilidades.
+- 🎓 **Formação:** Engenharia de Software — UNICID (em andamento).
+- 💻 **Conhecimentos:** HTML5, CSS3 e lógica de programação.
+- 📚 **Estudos atuais:** Linguagem C, algoritmos, modelagem de bancos de dados e desenvolvimento web.
+- ⚙️ **Interesses:** Desenvolvimento Back-End, arquitetura de sistemas e automação.
+- 🚀 **Objetivo:** Conquistar uma oportunidade na área de desenvolvimento de software e evoluir por meio de projetos reais.
 
-Gosto de transformar o conhecimento adquirido em projetos práticos, trabalhar em equipe e buscar soluções que contribuam para meu crescimento como desenvolvedor.
+## 🛠️ Projetos e aprendizado
 
-### 🎯 Minha jornada na tecnologia
+Meus primeiros sites foram desenvolvidos durante um **curso básico de HTML e CSS no SENAC**, onde comecei a praticar a estruturação e a estilização de páginas web.
 
-- 🎓 **Graduação:** Cursando Engenharia de Software — Universidade Cidade de São Paulo (UNICID).
-- 🖥️ **Desenvolvimento:** Conhecimentos em HTML e CSS.
-- 🛠️ **Projetos:** Participação no desenvolvimento de sistemas acadêmicos, documentação técnica e estruturação de bancos de dados.
-- ⚙️ **Interesses:** Desenvolvimento Back-End, arquitetura de sistemas, automação e novas tecnologias.
-- 🌱 **Objetivo:** Evoluir constantemente como desenvolvedor e contribuir para projetos que ofereçam soluções práticas e inovadoras.
+Um desses projetos é o **Odonto Elias**, site institucional fictício de uma clínica odontológica. Hoje, sigo ampliando meus conhecimentos com os projetos da graduação, incluindo o **Clube Social e Esportivo União (CSEU)**, que envolve desenvolvimento web, documentação técnica e modelagem de dados.
 
-## 📬 Vamos nos conectar?
+## 📬 Contato
 
-Estou aberto a novas conexões, oportunidades de aprendizado e experiências na área de tecnologia.
+- **E-mail:** [pedrobrandaomarques@gmail.com](mailto:pedrobrandaomarques@gmail.com)
+- **LinkedIn:** Pedro Elias Brandão Marques *(adicione aqui o link do seu perfil)*
 
-- 📧 **E-mail:** [pedrobrandaomarques@gmail.com](mailto:pedrobrandaomarques@gmail.com)
-- 🔗 **LinkedIn:** Pedro Elias Brandão Marques
+---
+
+<div align="center">
+  <sub>Em constante aprendizado, transformando conhecimento em soluções. 🚀</sub>
+</div>
