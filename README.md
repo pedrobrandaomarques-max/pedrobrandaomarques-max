@@ -24,7 +24,7 @@ Acredito no aprendizado por meio da prática, da colaboração e da melhoria con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Logo HTML5" width="70" height="70" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Logo CSS3" width="70" height="70" />
-  <p><strong>HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS3</strong></p>
+  <p><strong>HTML5  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS3</strong></p>
 </div>
 
 ## 🛠️ Projetos e aprendizado
