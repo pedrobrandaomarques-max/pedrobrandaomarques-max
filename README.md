@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/98a60d0a-0888-4da4-b234-66c26ddde7da" alt="Banner do perfil de Pedro Elias" width="100%" />
+  <img src="assets/banner-pedro-elias-formando.png" alt="Banner do perfil de Pedro Elias" width="100%" />
 </div>
 
 ## 👨‍💻 Sobre mim
