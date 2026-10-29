@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="COLE_AQUI_O_NOVO_LINK" alt="Banner do perfil de Pedro Elias" width="100%" />
+  <img src="./banner-pedro-elias-formando.png" alt="Banner do perfil de Pedro Elias" width="100%" />
 </div>
 
 ## 👨‍💻 Sobre mim
