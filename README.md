@@ -36,7 +36,7 @@ Acredito no aprendizado por meio da prática, da colaboração e da melhoria con
   </tr>
 </table>
 
-## 📂 Projetos e aprendizado
+## 📂 Projetos
 
 Meus primeiros sites foram desenvolvidos durante um **curso básico de HTML e CSS no SENAC**, onde comecei a praticar a estruturação e a estilização de páginas web.
 
