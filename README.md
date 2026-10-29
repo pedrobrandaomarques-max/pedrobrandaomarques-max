@@ -1,4 +1,6 @@
-<img width="1280" height="430" alt="banner-pedro-elias" src="https://github.com/user-attachments/assets/98a60d0a-0888-4da4-b234-66c26ddde7da" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/98a60d0a-0888-4da4-b234-66c26ddde7da" alt="Banner Pedro Elias" width="100%" />
+</div>
 
 ## 👨‍💻 Sobre mim
 
@@ -16,16 +18,28 @@ Acredito no aprendizado por meio da prática, da colaboração e da melhoria con
 - ⚙️ **Interesses:** Desenvolvimento Back-End, arquitetura de sistemas e automação.
 - 🚀 **Objetivo:** Conquistar uma oportunidade na área de desenvolvimento de software e evoluir por meio de projetos reais.
 
+## 🛠️ Tecnologias que conheço
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Logo HTML5" width="70" height="70" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Logo CSS3" width="70" height="70" />
+  <p><strong>HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSS3</strong></p>
+</div>
+
 ## 🛠️ Projetos e aprendizado
 
 Meus primeiros sites foram desenvolvidos durante um **curso básico de HTML e CSS no SENAC**, onde comecei a praticar a estruturação e a estilização de páginas web.
 
-Um desses projetos é o **Odonto Elias**, site institucional fictício de uma clínica odontológica. Hoje, sigo ampliando meus conhecimentos com os projetos da graduação, incluindo o **Clube Social Esportivo União (CSEU)**, que envolve desenvolvimento web, documentação técnica e modelagem de dados.
+Um desses projetos é o **Odonto Elias**, site institucional fictício de uma clínica odontológica. Hoje, sigo ampliando meus conhecimentos com os projetos da graduação, incluindo o **Clube Social e Esportivo União (CSEU)**, que envolve desenvolvimento web, documentação técnica e modelagem de dados.
 
 ## 📬 Contato
 
-- **E-mail:** [pedrobrandaomarques@gmail.com]
-- **LinkedIn:** https://www.linkedin.com/in/pedro-elias-brand%C3%A3o-marques-39b6b9433/
+- **E-mail:** [pedrobrandaomarques@gmail.com](mailto:pedrobrandaomarques@gmail.com)
+- **LinkedIn:** [Pedro Elias Brandão Marques](https://www.linkedin.com/in/pedro-elias-brand%C3%A3o-marques-39b6b9433/)
 
 ---
 
+<div align="center">
+  <sub>Em constante aprendizado, transformando conhecimento em soluções.</sub>
+</div>
