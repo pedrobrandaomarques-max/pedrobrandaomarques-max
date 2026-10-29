@@ -39,7 +39,3 @@ Um desses projetos é o **Odonto Elias**, site institucional fictício de uma cl
 - **LinkedIn:** [Pedro Elias Brandão Marques](https://www.linkedin.com/in/pedro-elias-brand%C3%A3o-marques-39b6b9433/)
 
 ---
-
-<div align="center">
-  <sub>Em constante aprendizado, transformando conhecimento em soluções.</sub>
-</div>
