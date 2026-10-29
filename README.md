@@ -18,7 +18,7 @@ Acredito no aprendizado por meio da prática, da colaboração e da melhoria con
 - ⚙️ **Interesses:** Desenvolvimento Back-End, arquitetura de sistemas e automação.
 - 🚀 **Objetivo:** Conquistar uma oportunidade na área de desenvolvimento de software e evoluir por meio de projetos reais.
 
-## 🛠️ Tecnologias que conheço
+## 🛠️ Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Logo HTML5" width="70" height="70" />
