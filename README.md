@@ -1,7 +1,7 @@
-
 <div align="center">
   <img src="./banner-pedro-elias-leve.gif" alt="Banner animado Pedro Elias" width="100%" />
 </div>
+
 
 
 ## 👨‍💻 Sobre mim
