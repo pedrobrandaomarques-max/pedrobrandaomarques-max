@@ -70,4 +70,3 @@ Um desses projetos é o **Odonto Elias**, site institucional fictício de uma cl
   </tr>
 </table>
 
-<p align="center"><sub>Em constante aprendizado, transformando conhecimento em soluções.</sub></p>
