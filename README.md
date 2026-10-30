@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner-pedro-elias-formando.png" alt="Banner do perfil de Pedro Elias" width="100%" />
+  <img src="./banner-pedro-elias-animado.gif" alt="Banner animado Pedro Elias" width="100%" />
 </div>
 
 ## 👨‍💻 Sobre mim
