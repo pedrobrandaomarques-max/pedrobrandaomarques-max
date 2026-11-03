@@ -23,21 +23,31 @@ Acredito no aprendizado por meio da prática, da colaboração e da melhoria con
 
 ## 🛠️ Tecnologias
 
-<!-- Cada nome ocupa a mesma coluna de sua imagem. -->
 <table align="center">
   <tr>
-    <td align="center" width="160">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Logotipo HTML5" width="80" height="80" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70">
     </td>
-    <td align="center" width="160">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Logotipo CSS3" width="80" height="80" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70">
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Linguagem C" width="70" height="70">
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/13406/sql.png" alt="SQL" width="70" height="70">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>HTML5</strong></td>
     <td align="center"><strong>CSS3</strong></td>
+    <td align="center"><strong>C</strong></td>
+    <td align="center"><strong>SQL</strong></td>
   </tr>
 </table>
+
+<sub>Ícone SQL: <a href="https://icons8.com/icon/13406/sql">Icons8</a>.</sub>
+
 
 ## 📂 Projetos
 
