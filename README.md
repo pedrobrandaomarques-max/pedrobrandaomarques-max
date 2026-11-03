@@ -46,8 +46,6 @@ Acredito no aprendizado por meio da prática, da colaboração e da melhoria con
   </tr>
 </table>
 
-<sub>Ícone SQL: <a href="https://icons8.com/icon/13406/sql">Icons8</a>.</sub>
-
 
 ## 📂 Projetos
 
