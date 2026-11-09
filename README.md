@@ -59,9 +59,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <sub>Clique em qualquer card para abrir o repositório correspondente.</sub>
-</div>
 
 <br />
 
