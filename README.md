@@ -1,83 +1,80 @@
 <div align="center">
-  <img src="./banner-pedro-elias-animado.gif" alt="Banner animado Pedro Elias" width="100%" />
+  <img src="./banner-pedro-elias-animado.gif" alt="Banner animado de Pedro Elias" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=31D7F1&center=true&vCenter=true&width=850&lines=Engenharia+de+Software+%7C+UNICID;Foco+em+desenvolvimento+Back-End;Aprendendo%2C+criando+e+evoluindo" alt="Apresentação animada dos objetivos de Pedro" />
+</div>
 
+<div align="center">
+  <a href="mailto:pedrobrandaomarques@gmail.com"><img alt="E-mail — Enviar mensagem" src="https://img.shields.io/badge/E--MAIL-ENVIAR%20MENSAGEM-162841?style=for-the-badge&logo=gmail&logoColor=31D7F1" /></a>
+  <a href="https://www.linkedin.com/in/pedro-elias-brand%C3%A3o-marques-39b6b9433/"><img alt="LinkedIn — Conectar" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-162841?style=for-the-badge&logo=linkedin&logoColor=31D7F1" /></a>
+  <a href="https://github.com/pedrobrandaomarques-max"><img alt="GitHub — Repositórios" src="https://img.shields.io/badge/GITHUB-REPOSIT%C3%93RIOS-162841?style=for-the-badge&logo=github&logoColor=31D7F1" /></a>
+</div>
 
+<br />
 
-## 👨‍💻 Sobre mim
+<div align="center">
+  <img src="./assets/perfil-cyber/01-ficha.png" width="100%" alt="Ficha do desenvolvedor: Pedro Elias, Engenharia de Software na UNICID, foco em Back-End e início dos estudos no SENAC" />
+</div>
 
-Olá! Sou **Pedro Elias**, estudante de **Engenharia de Software na Universidade Cidade de São Paulo (UNICID)**, construindo minha trajetória na área de desenvolvimento de sistemas.
+<details>
+<summary><strong>Sobre mim — descrição em texto</strong></summary>
 
-Tenho conhecimentos em **HTML, CSS e lógica de programação** e estou aprofundando meus estudos em **linguagem C, modelagem de bancos de dados e desenvolvimento web**. Meu principal objetivo profissional é atuar com **desenvolvimento Back-End**, criando soluções úteis, organizadas e eficientes.
+Sou **Pedro Elias**, estudante de **Engenharia de Software na UNICID** e interessado em desenvolvimento **Back-End**. Meu primeiro contato com desenvolvimento web aconteceu no curso básico de **HTML e CSS do SENAC**, onde construí meus primeiros sites. Gosto de aprender na prática, participar de projetos em equipe e desenvolver soluções organizadas.
 
-Acredito no aprendizado por meio da prática, da colaboração e da melhoria contínua.
+</details>
 
-## 🎯 Minha jornada na tecnologia
+<br />
 
-- 🎓 **Formação:** Engenharia de Software — UNICID (em andamento).
-- 💻 **Conhecimentos:** HTML5, CSS3 e lógica de programação.
-- 📚 **Estudos atuais:** Linguagem C, algoritmos, modelagem de bancos de dados e desenvolvimento web.
-- ⚙️ **Interesses:** Desenvolvimento Back-End, arquitetura de sistemas e automação.
-- 🚀 **Objetivo:** Conquistar uma oportunidade na área de desenvolvimento de software e evoluir por meio de projetos reais.
+<div align="center">
+  <img src="./assets/perfil-cyber/02-tecnologias.png" width="100%" alt="Arsenal tecnológico com HTML5, CSS3, linguagem C e SQL. C e SQL estão em estudo." />
+</div>
 
-## 🛠️ Tecnologias
+<details>
+<summary><strong>O que estou estudando</strong></summary>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70">
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70">
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="Linguagem C" width="70" height="70">
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/13406/sql.png" alt="SQL" width="70" height="70">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>HTML5</strong></td>
-    <td align="center"><strong>CSS3</strong></td>
-    <td align="center"><strong>C</strong></td>
-    <td align="center"><strong>SQL</strong></td>
-  </tr>
-</table>
+- **HTML5 e CSS3:** estrutura e estilo de páginas web.
+- **Linguagem C:** lógica, estruturas e algoritmos, em aprendizado.
+- **SQL e modelagem de bancos de dados:** consultas, entidades e relacionamentos, em aprendizado.
+- **Git e GitHub:** versionamento, organização e documentação dos projetos.
 
+</details>
 
-## 📂 Projetos
+<br />
 
-Meus primeiros sites foram desenvolvidos durante um **curso básico de HTML e CSS no SENAC**, onde comecei a praticar a estruturação e a estilização de páginas web.
+<div align="center">
+  <img src="./assets/perfil-cyber/03-projetos.png" width="100%" alt="Quatro projetos iniciais do SENAC: Cafés Imperiais, Odonto Elias, Aero-Náutica e Academia GGPM" />
+</div>
 
-Um desses projetos é o **Odonto Elias**, site institucional fictício de uma clínica odontológica. Hoje, sigo ampliando meus conhecimentos com os projetos da graduação, incluindo o **Clube Social e Esportivo União (CSEU)**, que envolve desenvolvimento web, documentação técnica e modelagem de dados.
+<div align="center">
 
-## 📬 Contato
+| Projeto | Acessar o código |
+|:--|:--:|
+| **Cafés Imperiais** — meu primeiro site | [Ver repositório](https://github.com/pedrobrandaomarques-max/Cafes-Imperiais) |
+| **Odonto Elias** — clínica odontológica fictícia | [Ver repositório](https://github.com/pedrobrandaomarques-max/Clinica-Odontologica) |
+| **Aero-Náutica** — turismo e pacotes | [Ver repositório](https://github.com/pedrobrandaomarques-max/Aero-Nautica) |
+| **Academia GGPM** — projeto final em equipe | [Ver repositório](https://github.com/pedrobrandaomarques-max/Academia-GGPM) |
 
-<!-- Imagem do LinkedIn + título separado + botão que contém somente o link de contato. -->
-<table align="center">
-  <tr>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Logotipo LinkedIn" width="42" height="42" />
-    </td>
-    <td align="left" width="120"><strong>LINKEDIN</strong></td>
-    <td align="center" width="180">
-      <a href="https://www.linkedin.com/in/pedro-elias-brand%C3%A3o-marques-39b6b9433/">
-        <img src="https://img.shields.io/badge/CONECTAR-009DB4?style=for-the-badge" alt="CONECTAR no LinkedIn" height="36" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="60">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Ícone de e-mail" width="42" height="42" />
-    </td>
-    <td align="left" width="120"><strong>E-MAIL</strong></td>
-    <td align="center" width="180">
-      <a href="mailto:pedrobrandaomarques@gmail.com">
-        <img src="https://img.shields.io/badge/ENVIAR_EMAIL-D14836?style=for-the-badge" alt="ENVIAR E-MAIL" height="36" />
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
 
+<br />
+
+<div align="center">
+  <img src="./assets/perfil-cyber/04-evolucao.png" width="100%" alt="Linha do tempo: SENAC, Engenharia de Software na UNICID e objetivo de trabalhar com Back-End" />
+</div>
+
+### Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrobrandaomarques-max&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="170" alt="Estatísticas públicas de Pedro Elias no GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrandaomarques-max&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" alt="Linguagens dos repositórios públicos" />
+</div>
+
+<sub>As estatísticas são geradas por um serviço externo e podem apresentar indisponibilidade temporária.</sub>
+
+---
+
+<div align="center">
+  <strong>EM CONSTANTE EVOLUÇÃO — TRANSFORMANDO CONHECIMENTO EM SOLUÇÕES.</strong>
+</div>
