@@ -79,7 +79,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <strong>EM CONSTANTE EVOLUÇÃO — TRANSFORMANDO CONHECIMENTO EM SOLUÇÕES.</strong>
-</div>
