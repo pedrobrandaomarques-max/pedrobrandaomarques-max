@@ -14,9 +14,9 @@
 
 <br />
 
-<!-- Sobre mim e estudos agora fazem parte da própria ficha ilustrada. -->
+<!-- A ficha ilustrada abaixo inclui Sobre Mim e Estudos Atuais, além da formação. -->
 <div align="center">
-  <img src="./assets/perfil-cyber/01-ficha.png" width="100%" alt="Ficha de Pedro Elias com formação em Engenharia de Software na UNICID, foco em Back-End, apresentação pessoal e estudos atuais em C, SQL, desenvolvimento web e Git" />
+  <img src="./assets/perfil-cyber/01-ficha.png" width="100%" alt="Ficha do desenvolvedor Pedro Elias. Inclui apresentação Sobre Mim, Engenharia de Software na UNICID, foco em Back-End, formação no SENAC e estudos atuais em HTML, CSS, C, SQL, modelagem de dados e algoritmos" />
 </div>
 
 <br />
@@ -31,7 +31,7 @@
   <img src="./assets/perfil-cyber/03-projetos-cabecalho.png" width="100%" alt="Projetos em destaque: principais projetos desenvolvidos no curso do SENAC" />
 </div>
 
-<!-- Cards dos projetos em formato 2x2. Cada card é clicável e abre o respectivo repositório. -->
+<!-- Cards realistas em 2x2. Cada imagem é um link para o respectivo repositório. -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -79,3 +79,7 @@
 </div>
 
 ---
+
+<div align="center">
+  <strong>EM CONSTANTE EVOLUÇÃO — TRANSFORMANDO CONHECIMENTO EM SOLUÇÕES.</strong>
+</div>
