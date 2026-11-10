@@ -68,11 +68,6 @@
 
 <br />
 
-<!-- Substitui os gráficos externos que apareciam quebrados. -->
-<div align="center">
-  <a href="https://github.com/pedrobrandaomarques-max" title="Ver minha atividade no GitHub">
-    <img src="./assets/perfil-cyber/05-atividade.png" width="100%" alt="Atividade no GitHub — clique para ver contribuições e repositórios de Pedro Elias" />
-  </a>
-</div>
+
 
 ---
